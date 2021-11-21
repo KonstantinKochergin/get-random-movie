@@ -1,0 +1,76 @@
+{
+  "movies": [
+    {
+      "title": "Зеленая миля",
+      "director": "Фрэнк Дарабонт",
+      "year": 1999,
+      "rating": 8.9,
+      "posterUrl": "https://avatars.mds.yandex.net/get-kinopoisk-image/1704946/8b2dad5e-655b-45f8-8c0e-4df53a594a4f/2560x",
+      "actors": ["Том Хэнкс", "Майкл Кларк Дункан", "Дэвид Морс", "Бонни Хант"]
+    },
+    {
+      "title": "Побег из Шоушенка",
+      "director": "Фрэнк Дарабонт",
+      "year": 1994,
+      "rating": 8.9,
+      "posterUrl": "https://avatars.mds.yandex.net/get-kinopoisk-image/1704946/eca4b108-e4e4-4cdb-8f60-8639e9b6852c/2560x",
+      "actors": ["Тим Роббинс", "Морган Фриман", "Боб Гантон", "Уильям Сэдлер"]
+    },
+    {
+      "title": "Интерстеллар",
+      "director": "Кристофер Нолан",
+      "year": 2014,
+      "rating": 8.6,
+      "posterUrl": "https://avatars.mds.yandex.net/get-kinopoisk-image/1600647/430042eb-ee69-4818-aed0-a312400a26bf/300x450",
+      "actors": ["Мэттью Макконахи", "Энн Хэтэуэй", "Джессика Честейн", "Уэс Бентли"]
+    },
+    {
+      "title": "Зеленая миля2",
+      "director": "Фрэнк Дарабонт",
+      "year": 1999,
+      "rating": 8.9,
+      "posterUrl": "https://avatars.mds.yandex.net/get-kinopoisk-image/1704946/8b2dad5e-655b-45f8-8c0e-4df53a594a4f/2560x",
+      "actors": ["Том Хэнкс", "Майкл Кларк Дункан", "Дэвид Морс", "Бонни Хант"]
+    },
+    {
+      "title": "Побег из Шоушенка2",
+      "director": "Фрэнк Дарабонт",
+      "year": 1994,
+      "rating": 8.9,
+      "posterUrl": "https://avatars.mds.yandex.net/get-kinopoisk-image/1704946/eca4b108-e4e4-4cdb-8f60-8639e9b6852c/2560x",
+      "actors": ["Тим Роббинс", "Морган Фриман", "Боб Гантон", "Уильям Сэдлер"]
+    },
+    {
+      "title": "Интерстеллар2",
+      "director": "Кристофер Нолан",
+      "year": 2014,
+      "rating": 8.6,
+      "posterUrl": "https://avatars.mds.yandex.net/get-kinopoisk-image/1600647/430042eb-ee69-4818-aed0-a312400a26bf/300x450",
+      "actors": ["Мэттью Макконахи", "Энн Хэтэуэй", "Джессика Честейн", "Уэс Бентли"]
+    },
+    {
+      "title": "Зеленая миля3",
+      "director": "Фрэнк Дарабонт",
+      "year": 1999,
+      "rating": 8.9,
+      "posterUrl": "https://avatars.mds.yandex.net/get-kinopoisk-image/1704946/8b2dad5e-655b-45f8-8c0e-4df53a594a4f/2560x",
+      "actors": ["Том Хэнкс", "Майкл Кларк Дункан", "Дэвид Морс", "Бонни Хант"]
+    },
+    {
+      "title": "Побег из Шоушенка3",
+      "director": "Фрэнк Дарабонт",
+      "year": 1994,
+      "rating": 8.9,
+      "posterUrl": "https://avatars.mds.yandex.net/get-kinopoisk-image/1704946/eca4b108-e4e4-4cdb-8f60-8639e9b6852c/2560x",
+      "actors": ["Тим Роббинс", "Морган Фриман", "Боб Гантон", "Уильям Сэдлер"]
+    },
+    {
+      "title": "Интерстеллар3",
+      "director": "Кристофер Нолан",
+      "year": 2014,
+      "rating": 8.6,
+      "posterUrl": "https://avatars.mds.yandex.net/get-kinopoisk-image/1600647/430042eb-ee69-4818-aed0-a312400a26bf/300x450",
+      "actors": ["Мэттью Макконахи", "Энн Хэтэуэй", "Джессика Честейн", "Уэс Бентли"]
+    }
+  ]
+}
